@@ -4,11 +4,11 @@
     "enabled": false,
     "text": "Get <strong>10% OFF</strong> your order with code",
     "code": "WELCOME10",
-    "canClose": true,
+    "canClose": false,
     "showAgainMinutes": 5
   },
   "popup": {
-    "enabled": true,
+    "enabled": false,
     "title": "Limited offer",
     "text": ""
   }
